@@ -1,0 +1,143 @@
+.about_data_goldy_solar a {
+    padding: 10px 20px;
+    background: #2271b1;
+    color: #fff;
+    margin: 20px 5px 0 5px!important;
+    text-decoration: none;
+    font-size: 13px;
+    text-transform: uppercase;
+    font-weight: bold;
+    letter-spacing: 2px;
+    line-height: 44px;
+    border-radius: 5px;
+}
+.goldy_cloud_about_demo {
+    margin: 130px 0px;
+    display: flex;
+}
+.feature-section {
+    padding: 10px;
+}
+.about_data_goldy_solar {
+    width: 295px;
+    border: 1px solid #ddd;
+    padding: 20px;
+    text-align: center;
+    background: #fff;
+}
+
+
+.goldy_cloud_about_image img {
+    width: 100%;
+}
+.goldy_cloud_about_description {
+    width: 70%;
+    padding-right: 30px;
+}
+.goldy_cloud_about_image {
+    width: 30%;
+}
+.goldy_cloud_about_data {
+    margin: 30px 30px;
+}
+.goldy_cloud_about_data ul.tabs{
+    margin: 0px;
+    border-bottom: 1px solid #ccc;
+}
+.goldy_cloud_about_data ul.tabs li.tab-link.current {
+    color: #222;
+    display: inline-block;
+    padding: 10px 20px;
+    width: auto;
+    text-align: center;
+    cursor: pointer;
+    font-size: 15px;
+    font-weight: 500;
+    border: 1px solid #ccc;
+    background: #ffffff;
+    border-bottom: 1px solid #ffffff;
+    margin-bottom: -1px;
+}
+.goldy_cloud_about_data ul.tabs li.tab-link {
+    color: #ffffff;
+    display: inline-block;
+    padding: 10px 20px;
+    width: auto;
+    text-align: center;
+    cursor: pointer;
+    font-size: 15px;
+    font-weight: 500;
+    border: 1px solid #ccc;
+    background: #4a85b9;
+    margin-bottom: -1px;
+}
+.goldy_cloud_about_data .tab-content {
+    display: none;
+    margin: 15px 0;
+}
+.goldy_mex_about_data .tab-content.current{
+    display: inherit;
+}
+.goldy_cloud_about_data .tab-content .theme_info{
+    background-color: #fff;
+}
+.about_que_data p, .about_theme_data p {
+    font-size: 16px;
+}
+.theme_info {
+    margin-top: 20px;
+    padding: 20px;
+    border: 1px solid #c3c4c7;
+}
+.goldy_cloud_about_theme {
+    display: flex;
+    width: 100%;
+}
+.goldy_cloud_about_description p{
+    font-size: 17px;
+    line-height: 1.6;
+}
+.goldy_cloud_about_description .action {
+    margin: 30px 0px;
+}
+.goldy_cloud_about_title h1 {
+    color: #32373c;
+    line-height: 1.2;
+    font-size: 2.8em;
+    font-weight: 400;
+}
+
+.goldy-cloud-theme-screenshot img.screenshot {
+    width: 100%;
+    max-width: 200px;
+    display: inline-block;
+    vertical-align: top;
+    border: 2px solid #ddd;
+    border-radius: 4px;
+}
+.goldy-cloud-getting-started-notice.clearfix {
+    padding: 20px 10px;
+    display: -webkit-flex;
+    display: -moz-flex;
+    display: -ms-flex;
+    display: -o-flex;
+    display: flex;
+    -ms-align-items: center;
+    align-items: center;
+}
+.theme-info-wrapper {
+    width: 70%;
+    display: block;
+    vertical-align: top;
+    padding: 0 20px;
+}
+div#about {
+    display: flex;
+}
+.about_section {
+    width: 100%;
+    padding-right: 20px;
+}
+.about_shortcode.theme_info {
+    width: 50%;
+}
